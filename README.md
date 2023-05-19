@@ -16,8 +16,9 @@ That will be application build in Django that will generate buy and sell alerts 
 ## Technologies
 
 * Python 3.11
-* Django 4.1
-* Visual Studio Code
+* 2captcha-python==1.2.0
+* python-dotenv==1.0.0
+* selenium==4.9.1
 
 ## Status
 
